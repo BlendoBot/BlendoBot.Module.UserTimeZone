@@ -10,7 +10,7 @@
     <PackageProjectUrl>https://github.com/BlendoBot/BlendoBot.Module.UserTimeZone</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>discord;bot;module</PackageTags>
-    <Description>Saves a timezone so that commands can represent times in your timezone</Description>
+    <Description>Saves a timezone so that commands can represent times in your timezone.</Description>
   </PropertyGroup>
 
   <ItemGroup>

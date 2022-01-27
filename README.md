@@ -1,5 +1,5 @@
 # BlendoBot.Module.UserTimeZone
-## Description
+## Saves a timezone so that commands can represent times in your timezone
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/BlendoBot/BlendoBot.Module.UserTimeZone/Tests)
 
 The usertimezone command allows users to set their own timezone, which other modules can then use to display information in a local time without needing to ask every time!
